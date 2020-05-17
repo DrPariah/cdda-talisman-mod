@@ -1,0 +1,18 @@
+[ 
+
+{
+    "type": "profession",
+    "ident": "builder",
+    "name": "builder magician",
+    "description": "Found a brick with runes, now you now how to rise walls",
+    "spells": [ { "id": "earth_wall", "level": 1 }, { "id": "rock_pole", "level": 1 }, { "id": "water_shallow", "level": 1 },{ "id": "wall_feller", "level": 1 } ],
+    
+    "points": 5,
+    "items": {
+      "both": [ "jeans", "tshirt", "hat_ball", "boots", "socks", "hoodie", "knit_scarf" ],
+      "male": [ "boxer_briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+  }
+
+]
