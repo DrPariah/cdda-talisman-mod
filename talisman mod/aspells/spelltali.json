@@ -43,7 +43,7 @@
     "range_increment": 1.0,
     "base_casting_time": 10,
     "base_energy_cost": 10,
-    "energy_source": "MANA",
+    "energy_source": "HP",
     "difficulty": 1,
     "field_chance": 100,                                    
 	"min_field_intensity": 100,                                
